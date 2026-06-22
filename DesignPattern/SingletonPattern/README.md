@@ -27,7 +27,7 @@ Singleton Pattern Verified: Only one instance exists
 
 ## Output Screenshot
 
-![Output](ex-1_SingleTon Output ScreenShot.png)
+(ex-1_SingleTon Output ScreenShot.png)
 
 ## Result
 Singleton Pattern implemented successfully.
