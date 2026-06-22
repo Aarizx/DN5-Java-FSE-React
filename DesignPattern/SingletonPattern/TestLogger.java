@@ -14,4 +14,6 @@ public class TestLogger {
             System.out.println("Multiple instances created");
         }
     }
+
+    
 }
