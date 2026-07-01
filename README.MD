@@ -22,7 +22,7 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Deep
 * DesignPatterns
 * DSA
 * PLSQL
-* JUnit-Mockito
+* TDD
 * SLF4J
 * SpringCore-Maven
 * SpringDataJPA
