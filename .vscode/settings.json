@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "DesignPattern/SingletonPattern",
+        "DSA/Finanace",
+        "DSA/E-commerce Platform",
+        "SpringCore-Maven/Exercise2_ImplementingDependencyInjection/src/main/java/com/library"
+    ]
+}
