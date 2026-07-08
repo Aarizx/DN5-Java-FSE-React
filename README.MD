@@ -1,6 +1,7 @@
 # Cognizant Deep Skilling - Java FSE React
-Name : Mohammed Aariz Mohamed Sulthan
+Name : Mohammed Aariz M
 email id : aarizx23@gmail.com
+
 This repository contains my hands-on exercises, assignments, and solutions completed during the training.
 
 ## 📂 Repository Structure
